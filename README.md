@@ -15,3 +15,5 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 <br/>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrjinkyu&show_icons=true&theme=gotham&locale=en" alt="mrjinkyu" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrjinkyu&theme=gotham" alt="mrjinkyu" /></p>
